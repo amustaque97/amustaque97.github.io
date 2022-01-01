@@ -1,16 +1,19 @@
 ---
-title: Colophon
+title: What do I do?
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps, I'm a free and Open-Source developer currently living in India, and go by the nickname amustaque97 on most platforms.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+👋 I’m a Free and Open-Source developer currently living in India, and go by the nickname **amustaque97** on most platforms.
 
-If you have a question about him or else, just send a letter to him.
+My interests are mainly in software development, but I dabble around security related topics.
+I have contributed to a several Open-Source projects, such as [Jetpack](https://github.com/Automattic/jetpack/pulls/amustaque97), [Gutenberg](https://github.com/WordPress/gutenberg/pulls/amustaque97) and [Datree](https://github.com/datreeio/datree/pulls/amustaque97)
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+These days I work as a developer in an IT security company.
+
+You can [report](https://github.com/amustaque97/amustaque97.github.io/issues/new/choose) if there is an broken link(s) or somethings else.
 
 **may u needs ✨**
 

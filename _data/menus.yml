@@ -10,6 +10,10 @@
   url: /about/
   external: false # set true if you using external link, see below
 
+- title: github
+  url: https://github.com/amustaque97
+  external: true
+
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
