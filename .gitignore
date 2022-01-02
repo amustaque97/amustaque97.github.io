@@ -7,3 +7,4 @@ klise-*.gem
 Gemfile.lock
 .bundle
 vendor
+.DS_Store
