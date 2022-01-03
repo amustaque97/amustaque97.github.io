@@ -1,5 +1,5 @@
 ---
-title: Can you change your git commit author?
+title: How to change your git commit author?
 date: 2022-01-02
 tags: [git, cli, commit]
 description: How to change git commit author?
@@ -19,4 +19,4 @@ Here is the live example I used it in one of the project.
 
 <img src="/assets/img/git-amend-author/amend-author.png" alt="Git amend author" />
 
-This is how we can also change your git commit author. I find this command really helpful. I don't have to worry even if I'm working on a new device with no configurations at all.
+This is how we can change our git commit author. I find this command really helpful. I don't have to worry even if I'm working on a new device with no configurations at all.
