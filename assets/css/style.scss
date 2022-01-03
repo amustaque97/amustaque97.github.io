@@ -2,3 +2,14 @@
 ---
 
 @import "main";
+
+.highlight {
+    max-width: 100%;
+    width: 100%;
+    overflow: scroll;
+}
+
+pre.highlight, pre {
+    margin: 0;
+    width: 100%;
+}
