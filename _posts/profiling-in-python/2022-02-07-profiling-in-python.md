@@ -137,4 +137,4 @@ gprof2dot -f pstats output.pstats | dot -Tpng -o output.png
 As seen in the output image. Function with red coloring is taking time. `time.sleep` function is taking time. Usually you don’t want to change code from external libraries, but you can see which of your functions call an external library function by going back along the arrow from that function. You might be able to optimise the way your code calls the external function, use a more optimised library, or remove the call entirely.
 
 ### Outro
-Indeed, learning profiling in python was completely new to me and I hope I can use this in the projects. I hope you also find it useful too ^_^
+Indeed, learning profiling in python was completely new to me and I hope I can use this in the projects. I hope you also find it useful ^_^
