@@ -1,7 +1,7 @@
 # Site settings
 title: Mustaque Ahmed # site title
 description: >- # site description
-    I use computers for fun and profit. In my spare time, I participate in the Free and open-source software community.
+    I use computers for fun and profit. In my spare time, I participate in the free and open-source software community.
 lang: en-US # default lang
 timezone: Asia/Calcutta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Mustaque Ahmed # author name
   bio: >- # tell to the world
-    I use computers for fun and profit. In my spare time, I participate in the Free and open-source software community.
+    I use computers for fun and profit. In my spare time, I participate in the free and open-source software community.
   username: amustaque97 # general username
   github: amustaque97 # github username
   twitter: amustaque97 # twitter username
