@@ -17,6 +17,7 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/WBb3fojgW0Q?si=6XHOxTedfHBeMp2X&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 ### Watched in past
 
 &nbsp;
@@ -25,7 +26,13 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/6MUcuqbGTxc?si=9ssRUVh8PHT7RUId&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/ZOxsfKQWrUg?si=_W4WQJeJbcAkKQky&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/GuS5BZTUVJs?si=iXZQYYPje9DHHjPf&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/0dCfbBwFI2Y?si=BqQo51M-t7S8ODL2&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/EMK3wy2563g?si=UJYdqNQNNSsgurIr&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/fEskVQgtwaI?si=iTtfts7tB-9shKS0&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,4 +56,19 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/g4Hbz2jLxvQ?si=JuPRfICqZGrNfuuu&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/Vm4tx1O9GAc?si=m5EixJe6v72FpsPJ&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/N6HGuJC--rk?si=2DH9Eq-0OPg-PJkt&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+##### Marvel Studios and many more...
+
+### Pakistani Series
+
+1. Ishq Murshid
+1. Mein
+2. Fasiq
+3. Khamoshi
+4. Humsafar
+5. Man mayal
+6. Muje pyaar hua tha
