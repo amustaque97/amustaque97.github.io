@@ -8,12 +8,10 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 ### Currently watching
 
 &nbsp;
-
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/ga1m0wjzscU?si=wGQOssUK7Gy5hQAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/HS2n3-e_0PE?si=MO4YDmLHAcaipMJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/yWyFs5dUlNQ?si=3MHlYU13Qnyj5wwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/FNpjwxk8-a8?si=26w7_39kiRZDshMe&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/WBb3fojgW0Q?si=6XHOxTedfHBeMp2X&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -21,6 +19,9 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 ### Watched in past
 
 &nbsp;
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/FNpjwxk8-a8?si=26w7_39kiRZDshMe&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/ga1m0wjzscU?si=wGQOssUK7Gy5hQAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/PaZVjZEFkRs?si=xHwE6jvKNQ8KgfTf&amp;controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -72,3 +73,4 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 4. Humsafar
 5. Man mayal
 6. Muje pyaar hua tha
+7. Kabhi main kabhi tum
