@@ -66,6 +66,7 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 
 ### Pakistani Series
 
+0. Tere bin
 1. Ishq Murshid
 1. Mein
 2. Fasiq
