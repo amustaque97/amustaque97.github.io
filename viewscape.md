@@ -9,7 +9,7 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 
 &nbsp;
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/SIkRfCKd7Lc?si=S6mfUCpbLX0xO0sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/FUS_Q7FsfqU?si=zihQIirUKtNf7Afj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/7UzSekc0LoQ?si=g7pKZ_FV9k56sV5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,6 +27,8 @@ excerpt: Here is a list of all the movies, documentaries, and OTT services I've 
 ### Watched in past
 
 &nbsp;
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/SIkRfCKd7Lc?si=S6mfUCpbLX0xO0sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/4-mznKj3lHc?si=YU4DtSPambhKDOkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
