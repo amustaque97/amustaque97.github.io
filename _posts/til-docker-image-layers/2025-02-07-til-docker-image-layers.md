@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of Combining \`RUN\` Commands in Docker Images'
+title: 'The Impact of Combining Commands in Docker Images'
 date: 2025-02-07
 tags: [blog, writing, life, tech, dev]
 description: Learn how combining `RUN` commands in Dockerfiles can reduce image size, improve build performance, and optimize caching for faster, more efficient Docker builds.
