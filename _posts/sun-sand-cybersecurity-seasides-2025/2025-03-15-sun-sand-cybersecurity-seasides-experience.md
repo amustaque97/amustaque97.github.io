@@ -39,13 +39,20 @@ I came back not only with a wealth of knowledge but also with cherished memories
 
 Here are some of the pictures that were clicked during this entire time!
 
-
-<img src="/assets/img/seasides-2025/beach-1.jpeg" />
-<img src="/assets/img/seasides-2025/beach-2.jpeg" />
-<img src="/assets/img/seasides-2025/chinese-resturant.jpeg" />
-<img src="/assets/img/seasides-2025/chinese-resturant-2.jpeg" />
-<img src="/assets/img/seasides-2025/food-1.jpeg" />
-<img src="/assets/img/seasides-2025/goa-blr.jpeg" />
-<img src="/assets/img/seasides-2025/goa-blr-2.jpeg" />
-<img src="/assets/img/seasides-2025/goa-blr-3.jpeg" />
 <img src="/assets/img/seasides-2025/kutumbh-resturant.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/beach-1.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/beach-2.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/chinese-resturant.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/chinese-resturant-2.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/food-1.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/goa-blr.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/goa-blr-2.jpeg" />
+&nbsp;
+<img src="/assets/img/seasides-2025/goa-blr3.jpeg" />
