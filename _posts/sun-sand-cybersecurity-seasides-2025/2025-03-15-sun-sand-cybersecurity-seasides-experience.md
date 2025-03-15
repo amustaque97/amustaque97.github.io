@@ -7,7 +7,7 @@ description: An unforgettable journey blending cybersecurity insights, beachside
 
 After a long hiatus from travel, I finally made my way to Goa in 2025 to attend the *Seasides* security conference. The last time I traveled was in 2019, and it felt incredible to get back out there. It was an experience I won’t forget, and attending *Seasides* made it even more special. For those who aren’t familiar with it, *Seasides* is a community-driven event that blends talks, workshops, villages, and parties, making it an exciting and dynamic conference for everyone involved.
 
-I traveled with my office colleagues, and we were there to represent our company at the event. Our booth was set up with a purpose – to encourage attendees to participate in the Capture The Flag (CTF) competition. The winner would take home an Apple AirPod 4, which added an element of fun and competition. It was a four-day event, and each day was filled with new experiences, valuable lessons, and plenty of networking.
+I traveled with my office colleagues, and we were there to represent our company at the event. Our booth was set up with a purpose – to encourage attendees to participate in the Capture The Flag (CTF) competition. The winner would take home an Apple AirPod 4, which added an element of fun and competition. It was a three-day event, and each day was filled with new experiences, valuable lessons, and plenty of networking.
 
 ### The Journey to Goa
 
