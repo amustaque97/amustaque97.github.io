@@ -1,5 +1,5 @@
 ---
-title: Debugging Docker Networks: Running Kubernetes Tests in CI/CD Pipelines
+title: Running Kubernetes Tests in CI/CD Pipelines
 date: 2025-11-01
 tags: [infra, debugging, docker, pipelines, ]
 description: Want to know at what time text got added or remoted in your entire git history? 
