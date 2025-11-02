@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Sidecars: Stop Losing Logs When Your App Crashes
+title: Kubernetes Sidecars Stop Losing Logs When Your App Crashes
 date: 2025-11-02
 tags: [infra, debugging, kubernetes, pipelines, ]
 description: how we fixed our logging nightmare with Kubernetes sidecars.
