@@ -1,5 +1,5 @@
 ---
-title: Terraform Replace — The Modern Way to Rebuild Resources
+title: Terraform Replace - The Modern Way to Rebuild Resources
 date: 2025-11-11
 tags: [Terraform, DevOps ,IaC , InfrastructureAsCode, CloudEngineering ]
 description: A quick guide to Terraform’s -replace flag — the smarter, state-safe successor to taint and untaint
